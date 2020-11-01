@@ -18,7 +18,9 @@ Vi har også utviklet og valgt ut en del oppgaver som kan brukes for å øve seg
 ## Ekstra ressurser:
 Her har vi samlet et knippe resurser som kan være nyttige for ekstra trening.
 
-[Introduksjonsbok for vitenskapelig programmering i Python](https://link.springer.com/book/10.1007/978-3-030-50356-7)
-En gratis bok om vitenskapelig programmering i Python. Boken er pensum i faget "IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser", som er et introduksjonsemne i Python-programmering ved UiO.
+* [Introduksjonsbok for vitenskapelig programmering i Python](https://link.springer.com/book/10.1007/978-3-030-50356-7) –
+En gratis bok om vitenskapelig programmering i Python. Boken er pensum i faget *IN1900 – Introduksjon i programmering for naturvitenskapelige anvendelser*, som er et introduksjonsemne i Python-programmering ved UiO.
 
-[Project Euler](https://github.com/kodeskolen/vgs) En database for hundrevis av matemaitkkoppgaver som lettest løses ved hjelp av programmering. Oppgavene kan løses i hvilket som helst språk.
+* [Exercises for IN1900](https://www.uio.no/studier/emner/matnat/ifi/IN1900/h20/oppgaver/oppgaveheftein1900.pdf) – Oppgavesamling for kurset IN1900
+
+* [Project Euler](https://github.com/kodeskolen/vgs) – En database for hundrevis av matematikkoppgaver som lettest løses ved hjelp av programmering. Oppgavene kan løses i hvilket som helst språk.
