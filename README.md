@@ -11,8 +11,9 @@ Kurset vil passe for deg som har lite eller ingen programmeringserfaring fra fø
 I løpet av kurset vil vi ha flere oppgaveøkter. Her vil du ha muligheten til å lage dine egne dataprogram for å løse små oppgaver og du kan få hjelp av en av våre flinke undervisere om du står fast.
 
 ## Materiale
-### Kompendier
 Vi har utviklet to kompendier rettet inn mot dette kurset – et for hver dag. Det første finner du [her](dag1/kompendium.pdf), og dekker temaene variabler, betingelser og løkker. Det andre finner du [her](dag2/kompendium.pdf), og her ser vi på funksjoner og plotting, samt går igjennom et konkret prosjekt for numerisk løsning av ligninger.
+
+Vi har også utviklet og valgt ut en del oppgaver som kan brukes for å øve seg på programmering. Vi kommer til å fokusere på oppgavene som ligger [her](oppgaver/Oppgaver.pdf) – og om du blir fort ferdig, eller har lyst til å øve deg mer i ettertid, kan du gjerne også prøve deg på [disse](oppgaver/Bonusoppgaver.pdf).
 
 ## Ekstra ressurser:
 Her har vi samlet et knippe resurser som kan være nyttige for ekstra trening.
