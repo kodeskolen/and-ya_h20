@@ -21,4 +21,3 @@ yverdier2 = f(xverdier2)
 
 for x in xverdier:
     print(x, end=" ")
-    
