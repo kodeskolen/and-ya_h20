@@ -25,4 +25,4 @@ En gratis bok om vitenskapelig programmering i Python. Boken er pensum i faget *
 
 * [Exercises for IN1900](https://www.uio.no/studier/emner/matnat/ifi/IN1900/h20/oppgaver/oppgaveheftein1900.pdf) – Oppgavesamling for kurset IN1900
 
-* [Project Euler](https://github.com/kodeskolen/vgs) – En database for hundrevis av matematikkoppgaver som lettest løses ved hjelp av programmering. Oppgavene kan løses i hvilket som helst språk.
+* [Project Euler](https://projecteuler.net/) – En database for hundrevis av matematikkoppgaver som lettest løses ved hjelp av programmering. Oppgavene kan løses i hvilket som helst språk.
